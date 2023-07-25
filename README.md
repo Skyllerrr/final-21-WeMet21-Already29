@@ -107,9 +107,6 @@
 |**디자인** | [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>](https://www.figma.com/file/OFzYcxwkMzX9U9ljo06ow8/21%EC%A1%B0-%ED%99%94%EC%9D%B4%EB%9D%B5!!!!?type=design&node-id=27-1212&mode=design&t=fXS6bC8hoYKtFX1v-0)   |
   <br> 
 
-### [Git Flow]
-![image 21](https://github.com/kyeongboo-coder/kh/assets/126529523/ac923695-39be-4d2f-a3c9-548637548be3)
-
 <br>
 
 ### [커밋컨벤션]
